@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* =========== Sign Up Page CSS =========== */
+.signup {
+  max-width: 700px;
+  margin-inline: auto;
+  padding: 50px;
+  background-color: #cccccc;
+  margin-top: 2rem;
+}
+
+/* =========== Login Page ============ */
+.user_login {
+  max-width: 600px;
+  margin-inline: auto;
+  padding: 50px;
+  background-color: #cccccc;
+  margin-top: 5rem;
+}
